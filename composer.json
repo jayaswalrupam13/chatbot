@@ -1,0 +1,18 @@
+{
+    "name": "jayaswalrupam13/chatbot",
+    "description": "A basic package creation",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jayaswalrupam13\\Chatbot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rupam Jayaswal",
+            "email": "jayaswalrupam13@gmail.com"
+        }
+    ],
+    "require": {}
+}
