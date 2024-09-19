@@ -1,5 +1,7 @@
 <?php
 
+namespace Jayaswalrupam13\Chatbot;
+
 class CreateJokes{
 
     public function jokes(){
@@ -39,3 +41,6 @@ class CreateJokes{
 
     }
 }
+
+//$obj = new CreateJokes();
+//echo $obj->jokes();
